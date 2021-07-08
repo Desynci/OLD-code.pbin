@@ -1,6 +1,6 @@
 'use strict';
 
-var PlayMenu = ( function(
+var PlayMenu = ( function()
 {
 	var k_workshopPanelId = 'gameModeButtonContainer_workshop';
 
